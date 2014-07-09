@@ -5,6 +5,9 @@ sis-gr
 
 <strong>Alunos:</strong> Alessandro de Lima, Rafael de Brito e Vanderson Ramos
 
+<strong>Professor Orientador:</strong> Veloso
+
+
 <strong>Objetivos:</strong>
 	Aumentar a produtividade de reuniões dando suporte ao processo de gerenciamento destes eventos, desde o agendamento da reunião, até o acompanhamento dos objetivos e responsabilidades traçados durante o evento.
 	
